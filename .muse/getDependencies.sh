@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-apt update
-apt install -y protobuf-compiler
+apt-get update
+apt-get install -y protobuf-compiler
